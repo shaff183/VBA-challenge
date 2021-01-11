@@ -1,2 +1,2 @@
 # VBA-challenge
-Using VBA script to analyze real stock market data. 
+Using VBA script to analyze real stock market data.  This code will, for each stock, find the yearly change from opening price at the beginning of the year to closing price at the end of the year, the percent change between those two numbers, and the total stock volume.  It will also pull from the data the stock that had the greatest percent increase, greatest percent decrease, and greatest total volume for that year.
